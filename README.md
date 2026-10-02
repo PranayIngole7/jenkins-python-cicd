@@ -7,9 +7,7 @@ A light, production-ready Continuous Integration and Continuous Deployment (CI/C
 ## Objectives
 
 - Automate build, test, and deployment workflows on code commits.
-
 - Containerize the Python application using Docker.
-
 - Enable zero-downtime container updates upon new releases.
 
 ---
